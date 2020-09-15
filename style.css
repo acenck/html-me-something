@@ -33,13 +33,23 @@ h1  {
     border: 3px solid black;
     border-radius: 5px;
     color: black;
+    float: center;
 
 }
+
+
+
+
+
+
 
 .banner img {
     width: 1024px;
     height: 169px;
     padding-top: 20px;
+    margin-top: 10px;
+    
+    
 }
 
   .navigation ul {
